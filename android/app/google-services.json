@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53524333746",
+    "project_id": "espaco-juliana-38d12",
+    "storage_bucket": "espaco-juliana-38d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53524333746:android:6165e460806c468c3d75ab",
+        "android_client_info": {
+          "package_name": "br.com.knischewski.espaco_juliana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53524333746-rpdkqb4osmqum2g3ml8g1laq96ud5sjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkiVWaNr_PaGdP9wYVm1V7ZvOW4vkbnHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53524333746-rpdkqb4osmqum2g3ml8g1laq96ud5sjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
