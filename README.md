@@ -1,4 +1,4 @@
-# espaco_juliana
+# Espaço Juliana
 
 A new Flutter project.
 
