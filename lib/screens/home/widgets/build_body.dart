@@ -18,7 +18,7 @@ class _buildBodyState extends State<buildBody> {
         children: [
           Categories(),
           Container(
-            height: double.maxFinite,
+            height: MediaQuery.of(context).size.height,
             child: ListView.builder(
               scrollDirection: Axis.horizontal,
               shrinkWrap: true,

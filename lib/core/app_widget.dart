@@ -1,4 +1,3 @@
-import 'package:espaco_juliana/core/app_colors.dart';
 import 'package:espaco_juliana/models/client/client_manager.dart';
 import 'package:espaco_juliana/screens/home/home_page.dart';
 import 'package:espaco_juliana/screens/login/login_screen.dart';
