@@ -1,4 +1,4 @@
-import 'package:espaco_juliana/models/client/page_manager.dart';
+import 'package:espaco_juliana/src/models/client/page_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,8 +1,8 @@
-import 'package:espaco_juliana/screens/home/widgets/product_card.dart';
+import 'package:espaco_juliana/src/screens/home/widgets/categories.dart';
+import 'package:espaco_juliana/src/screens/home/widgets/product_card.dart';
 import 'package:flutter/material.dart';
-import 'package:espaco_juliana/models/products/product.dart';
-import 'package:espaco_juliana/screens/home/widgets/categories.dart';
-import 'package:flutter/material.dart';
+
+import '../../../models/products/product.dart';
 
 class buildBody extends StatefulWidget {
   @override

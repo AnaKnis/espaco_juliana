@@ -1,4 +1,4 @@
-import 'package:espaco_juliana/models/products/product.dart';
+import 'package:espaco_juliana/src/models/products/product.dart';
 import 'package:flutter/material.dart';
 
 class ProductCard extends StatelessWidget {

@@ -1,9 +1,8 @@
-import 'package:espaco_juliana/common/bottom_nav_bar/bottom_nav_bar.dart';
-import 'package:espaco_juliana/common/custom_drawer/custom_drawer.dart';
-import 'package:espaco_juliana/core/app_colors.dart';
-import 'package:espaco_juliana/models/client/page_manager.dart';
-import 'package:espaco_juliana/screens/home/widgets/build_app_bar.dart';
-import 'package:espaco_juliana/screens/home/widgets/build_body.dart';
+import 'package:espaco_juliana/src/common/bottom_nav_bar/bottom_nav_bar.dart';
+import 'package:espaco_juliana/src/common/custom_drawer/custom_drawer.dart';
+import 'package:espaco_juliana/src/models/client/page_manager.dart';
+import 'package:espaco_juliana/src/screens/home/widgets/build_app_bar.dart';
+import 'package:espaco_juliana/src/screens/home/widgets/build_body.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:provider/provider.dart';

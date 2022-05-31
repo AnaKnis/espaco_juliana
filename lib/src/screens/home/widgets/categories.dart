@@ -1,4 +1,3 @@
-import 'package:espaco_juliana/core/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class Categories extends StatefulWidget {

@@ -1,5 +1,5 @@
-import 'package:espaco_juliana/common/custom_drawer/custom_drawer_header.dart';
-import 'package:espaco_juliana/common/custom_drawer/drawer_tile.dart';
+import 'package:espaco_juliana/src/common/custom_drawer/custom_drawer_header.dart';
+import 'package:espaco_juliana/src/common/custom_drawer/drawer_tile.dart';
 import 'package:flutter/material.dart';
 
 class CustomDrawer extends StatelessWidget {

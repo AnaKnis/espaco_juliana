@@ -1,4 +1,4 @@
-import 'package:espaco_juliana/core/app_images.dart';
+import 'package:espaco_juliana/src/core/app_images.dart';
 
 class Product {
   final String? image, title;

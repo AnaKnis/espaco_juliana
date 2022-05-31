@@ -1,7 +1,6 @@
-import 'package:espaco_juliana/helpers/validators.dart';
-import 'package:espaco_juliana/models/client/client.dart';
-import 'package:espaco_juliana/models/client/client_manager.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+import 'package:espaco_juliana/src/helpers/validators.dart';
+import 'package:espaco_juliana/src/models/client/client.dart';
+import 'package:espaco_juliana/src/models/client/client_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,5 +1,4 @@
-import 'package:espaco_juliana/core/app_colors.dart';
-import 'package:espaco_juliana/models/client/client_manager.dart';
+import 'package:espaco_juliana/src/models/client/client_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

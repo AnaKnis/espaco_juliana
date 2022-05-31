@@ -1,4 +1,4 @@
-import 'package:espaco_juliana/core/app_widget.dart';
+import 'package:espaco_juliana/src/core/app_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 

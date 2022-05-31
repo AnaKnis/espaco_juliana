@@ -1,7 +1,7 @@
-import 'package:espaco_juliana/models/client/client_manager.dart';
-import 'package:espaco_juliana/screens/home/home_page.dart';
-import 'package:espaco_juliana/screens/login/login_screen.dart';
-import 'package:espaco_juliana/screens/signup/signup_screen.dart';
+import 'package:espaco_juliana/src/models/client/client_manager.dart';
+import 'package:espaco_juliana/src/screens/home/home_page.dart';
+import 'package:espaco_juliana/src/screens/login/login_screen.dart';
+import 'package:espaco_juliana/src/screens/signup/signup_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
